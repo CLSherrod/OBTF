@@ -8,6 +8,7 @@ Instead of a daily note file this is one big text file journal where a new day i
 - [Living in a Single Text File](https://www.williamhern.com/living-in-a-single-text-file.html)
 - [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/)
 - [PTPL 091: I'm Using One Big Text File in Obsidian as a Digital Bullet Journal](https://www.blog.plaintextpaperless.com/p/ptpl091-from-bullet-journal-to-one-big-text-file)
+- [My Big-Arse Text File - a Poor Man's Wiki+Blog+PIM](http://www.matthewcornell.org/blog/2005/8/21/my-big-arse-text-file-a-poor-mans-wikiblogpim.html)
 
 ## Contributors wanted
 If you have anything to add to make this template better please become a contributor.
