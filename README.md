@@ -26,7 +26,7 @@ To start using OBTF Journal, simply follow these steps:
 
 2. **Choose Your Format**: Decide whether you want to use Markdown or plain text for your journal entries.
 
-3. **Start Journaling**: Begin adding your journal entries to the main text file (`journal.md` or `journal.txt`). Each new entry should be added to the top of the file.
+3. **Start Journaling**: Begin adding your journal entries to the main text file (`journal.md` or `journal.txt`). Each new entry should be added to the top of the file. Also, check out 'tags.md' for some tags you can use in your journal.
 
 4. **Customize as Needed**: Feel free to customize the journal format or add additional features to suit your preferences.
 
