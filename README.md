@@ -35,12 +35,12 @@ To start using OBTF Journal, simply follow these steps:
 Contributions to OBTF Journal are welcome! If you have ideas for improvements, new features, or bug fixes, please feel free to submit a pull request or open an issue on the GitHub repository.
 
 ## Learn more by reading
-- [One Big Text File](https://mikegrindle.com/posts/obtf)
-- [Living in a Single Text File](https://www.williamhern.com/living-in-a-single-text-file.html)
-- [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/)
-- [PTPL 091: I'm Using One Big Text File in Obsidian as a Digital Bullet Journal](https://www.blog.plaintextpaperless.com/p/ptpl091-from-bullet-journal-to-one-big-text-file)
-- [My Big-Arse Text File - a Poor Man's Wiki+Blog+PIM](http://www.matthewcornell.org/blog/2005/8/21/my-big-arse-text-file-a-poor-mans-wikiblogpim.html)
-
+- [One Big Text File - Mike Grindle](https://mikegrindle.com/posts/obtf)
+- [Living in a Single Text File - William Hern](https://www.williamhern.com/living-in-a-single-text-file.html)
+- [My productivity app is a never-ending .txt file - Jeff Huang](https://jeffhuang.com/productivity_text_file/)
+- [PTPL 091: I'm Using One Big Text File in Obsidian as a Digital Bullet Journal - Plain Text Paperless](https://www.blog.plaintextpaperless.com/p/ptpl091-from-bullet-journal-to-one-big-text-file)
+- [My Big-Arse Text File - a Poor Man's Wiki+Blog+PIM - Matthew Cornell](http://www.matthewcornell.org/blog/2005/8/21/my-big-arse-text-file-a-poor-mans-wikiblogpim.html)
+- [One Big Text File - Beardy Guy](https://beardystarstuff.net/2024/04/27/082857.html) - a different way to use OBTF
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it for your own purposes.
