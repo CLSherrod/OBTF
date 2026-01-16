@@ -70,5 +70,134 @@ Example:
 ```markdown
 ## 2026-01-16
 - Paid electrician
-- Waent for a walk
+- Walked by the water
 - Felt unusually clear in the afternoon #clarity
+````
+
+That’s it.
+
+---
+
+## How Tags Are Used (Important)
+
+Tags are **lenses**, not categories.
+
+Most entries are untagged.
+Tags are applied only when something rises above the noise.
+
+### 1. Signal Tags — *“This mattered”*
+
+Used sparingly.
+
+* `#signal`
+* `#pattern`
+* `#shift`
+* `#warning`
+* `#clarity`
+
+These mark moments worth revisiting.
+
+---
+
+### 2. Seed Tags — *“This wants to become something”*
+
+Used when creative potential appears.
+
+* `#essay-seed`
+* `#book-seed`
+* `#course-seed`
+* `#story-seed`
+
+These allow ideas to surface without forcing production.
+
+---
+
+### 3. State Tags — *“What condition was I in?”*
+
+These describe operating conditions, not moods.
+
+* `#low-energy`
+* `#clear`
+* `#overstimulated`
+* `#rested`
+* `#fragile`
+
+Over time, these reveal correlations between health, environment, work, and output.
+
+---
+
+### What Is *Not* Tagged
+
+* routine chores
+* logistics
+* obvious context
+* most media consumption
+
+Chronology already handles those.
+Tags exist only to lift meaning *out of time*.
+
+---
+
+## Weekly Signal Extraction (Optional)
+
+At the end of a week, you may add a short reflection:
+
+```markdown
+## Weekly Signals
+- Body:
+- Mind:
+- Work:
+```
+
+Three lines. No analysis.
+This trains the journal to think upward, not just forward.
+
+---
+
+## Recommended Tools
+
+OBTF works in any editor:
+
+* Obsidian
+* iA Writer
+* VS Code
+* Vim
+* Any plain-text editor
+
+Search is your primary interface.
+
+---
+
+## What This Is Not
+
+* Not a productivity system
+* Not a task manager
+* Not a database
+* Not a public journal
+
+It is a **private thinking instrument**.
+
+---
+
+## Contributing
+
+This repository is shared for inspiration, not standardization.
+
+Useful contributions include:
+
+* workflow ideas
+* tag philosophy improvements
+* scripts that respect simplicity
+* documentation clarity
+
+Feature bloat will be rejected.
+
+---
+
+## License
+
+Shared under an open license for reference and adaptation.
+The journal content itself is personal and not intended for reuse.
+
+Use the idea.
+Build your own file.
