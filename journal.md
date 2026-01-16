@@ -2,9 +2,42 @@
 tags:
   - journal
 ---
-**Your Name** 
-**Your title**
-Contact Info (if needed)
+> [!info] **Your Name's Journal**
+Contact Info (if wanted)
+
+## Links
+Common WikiLinks to notes you use daily.
+
+## Schedule
+Reminder of my optimal day routine
+[[Daily schedule]]
+
+## Tags
+### Signal Tags — “This mattered”
+Rule: if you wouldn’t search for it six months from now, don’t tag it.
+Now it’s no longer just a note—it’s part of a pattern you can later see.
+#signal
+#pattern
+#shift
+#warning
+#clarity
+
+### Seed Tags — “This wants to become something”
+These should only appear when there is creative potential, not vague interest.
+This turns your journal into a quiet content incubator.
+#essay-seed
+#book-seed
+#course-seed
+#story-seed
+
+### State Tags — “What condition was I in?”
+These are not emotions. They are operating conditions.
+With actual lived capacity. This is priceless.
+#low-energy
+#clear
+#overstimulated
+#rested
+#fragile
 
 # Tasks
 - current task or project you are workng on
@@ -14,6 +47,13 @@ Contact Info (if needed)
 ### YYYY-MM-DD Day Name
 - list of things you want to journal
 
-### 2024-06-29 Sunday
-- watched  [Titantic (1997) - IMDb](https://www.imdb.com/title/tt0120338/?ref_=fn_al_tt_1) #media
+## Weekly Signals
+At the end of each week, add a tiny reflection block. Three lines. No more.
+Example:
+- Body: #fragile after travel
+- Mind: #clear when mornings were quiet
+- Work: #essay-seed emerged midweek
+
+### 2026-01-16 Friday
+- watched [Titantic (1997) - IMDb](https://www.imdb.com/title/tt0120338/?ref_=fn_al_tt_1)
 - wrote [[tags]] #note
