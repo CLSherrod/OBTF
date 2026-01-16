@@ -1,91 +1,100 @@
-# OBTF — One Big Text File Journal
+# OBTF — One Big Text File Journal  
+*A minimalist plain-text journaling system for long-term thinking, pattern recognition, and honest self-study.*
 
-**A plain-text journaling system built for continuity, honesty, and long-term pattern noticing.**
+OBTF (One Big Text File) is a journaling and personal knowledge practice built around a single idea:
 
-OBTF is intentionally simple:  
-one file, written chronologically, with minimal structure and selective tagging.
+**Keep your life in one chronological text file.**
 
 No apps.  
+No databases.  
 No dashboards.  
 No optimization theater.
 
-Just a life, recorded as it actually unfolds.
+Just continuity.
 
 ---
 
-## What This Is
+## What Is OBTF?
 
-OBTF is a **long-running journal stored as a single text or Markdown file**.
+OBTF is a **plain-text journaling method** where everything goes into one long file, written in chronological order.
 
-Everything goes in:
-- daily events
-- work and money
-- health and energy
-- travel
-- media consumed
-- ideas
-- moments of clarity or confusion
+It is used to record:
+- daily life events
+- work and creative output
+- health and energy signals
+- travel and environment
+- money and logistics
+- ideas, insights, and questions
+- moments of clarity, fatigue, or change
 
-Nothing is filtered on entry.  
+Nothing is filtered at the point of capture.  
 Meaning is extracted later—if at all.
 
-This preserves context, causality, and rhythm in a way fragmented note systems can’t.
-
 ---
 
-## Why One Big File?
+## Why One Big Text File?
 
-Most systems prioritize organization.  
-OBTF prioritizes **continuity**.
+Most note-taking and PKM systems fragment life into folders, tags, and databases.
 
-Life does not arrive in folders.  
-Memory works by repetition and association.  
-Patterns only emerge when things are allowed to sit together over time.
+OBTF does the opposite.
 
-A single file makes it harder to lie to yourself.
+A single file preserves:
+- context
+- cause and effect
+- rhythm
+- recovery
+- long-term patterns
+
+Memory works through repetition and proximity.  
+OBTF respects that.
 
 ---
 
 ## Who This Is For
 
-OBTF works best if you:
-- think in long arcs
-- dislike rigid systems
+OBTF is especially useful if you:
+- prefer plain text over apps
+- think in long arcs instead of daily goals
 - care about energy, health, and attention
+- dislike rigid productivity systems
 - want fewer tools, not more
-- prefer truth over productivity metrics
+- value truth over optimization
 
-If you need motivation, gamification, or task management—this is not that.
+If you’re looking for a task manager, habit tracker, or productivity app, this is not it.
 
 ---
 
 ## File Format
 
-- Plain text (`.txt`) or Markdown (`.md`)
-- Chronological
-- Date-based headings (any format that works for you)
+OBTF works in:
+- `.txt`
+- `.md`
+
+Markdown is recommended but optional.
+
+Entries are chronological and date-based.
 
 Example:
 
 ```markdown
 ## 2026-01-16
-- Paid electrician
 - Walked by the water
+- Paid electrician
 - Felt unusually clear in the afternoon #clarity
 ````
 
-That’s it.
+That’s enough structure.
 
 ---
 
-## How Tags Are Used (Important)
+## Tag Philosophy (Critical)
 
-Tags are **lenses**, not categories.
+Tags in OBTF are **lenses**, not categories.
 
-Most entries are untagged.
+Most entries are **untagged**.
 Tags are applied only when something rises above the noise.
 
-### 1. Signal Tags — *“This mattered”*
+### Signal Tags — “This mattered”
 
 Used sparingly.
 
@@ -95,11 +104,11 @@ Used sparingly.
 * `#warning`
 * `#clarity`
 
-These mark moments worth revisiting.
+These mark moments worth revisiting later.
 
 ---
 
-### 2. Seed Tags — *“This wants to become something”*
+### Seed Tags — “This wants to become something”
 
 Used when creative potential appears.
 
@@ -108,11 +117,11 @@ Used when creative potential appears.
 * `#course-seed`
 * `#story-seed`
 
-These allow ideas to surface without forcing production.
+This allows ideas to surface organically without forcing output.
 
 ---
 
-### 3. State Tags — *“What condition was I in?”*
+### State Tags — “What condition was I in?”
 
 These describe operating conditions, not moods.
 
@@ -122,15 +131,14 @@ These describe operating conditions, not moods.
 * `#rested`
 * `#fragile`
 
-Over time, these reveal correlations between health, environment, work, and output.
+Over time, these reveal correlations between health, environment, and work.
 
 ---
 
 ### What Is *Not* Tagged
 
 * routine chores
-* logistics
-* obvious context
+* obvious logistics
 * most media consumption
 
 Chronology already handles those.
@@ -140,7 +148,7 @@ Tags exist only to lift meaning *out of time*.
 
 ## Weekly Signal Extraction (Optional)
 
-At the end of a week, you may add a short reflection:
+At the end of a week, you may add:
 
 ```markdown
 ## Weekly Signals
@@ -150,21 +158,22 @@ At the end of a week, you may add a short reflection:
 ```
 
 Three lines. No analysis.
-This trains the journal to think upward, not just forward.
+
+This turns the journal from a record into a pattern detector.
 
 ---
 
-## Recommended Tools
+## Recommended Editors & Tools
 
-OBTF works in any editor:
+OBTF works anywhere you can edit text:
 
 * Obsidian
-* iA Writer
 * VS Code
-* Vim
+* iA Writer
+* Vim / Neovim
 * Any plain-text editor
 
-Search is your primary interface.
+Search is the primary interface.
 
 ---
 
@@ -175,20 +184,20 @@ Search is your primary interface.
 * Not a database
 * Not a public journal
 
-It is a **private thinking instrument**.
+OBTF is a **private thinking instrument**.
 
 ---
 
 ## Contributing
 
-This repository is shared for inspiration, not standardization.
+This repository is shared for inspiration and adaptation, not standardization.
 
 Useful contributions include:
 
 * workflow ideas
-* tag philosophy improvements
-* scripts that respect simplicity
-* documentation clarity
+* tag philosophy refinements
+* lightweight scripts
+* documentation improvements
 
 Feature bloat will be rejected.
 
@@ -196,8 +205,7 @@ Feature bloat will be rejected.
 
 ## License
 
-Shared under an open license for reference and adaptation.
+Shared openly for reference and remixing.
 The journal content itself is personal and not intended for reuse.
 
-Use the idea.
-Build your own file.
+**Use the idea. Build your own file.**
