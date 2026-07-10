@@ -1,0 +1,73 @@
+#+TITLE: OBTF Journal Styles — Emacs Org
+
+Use these as starting points, not rules. Pick one style and keep writing in chronological order.
+
+* Minimal Daily
+
+#+begin_example
+* 2026-01-16
+- Walked by the water.
+- Paid electrician.
+- Felt clear in the afternoon. #clarity
+#+end_example
+
+* Daily Check-In
+
+#+begin_example
+* 2026-01-16
+
+Energy:
+Body:
+Mind:
+Work:
+Home:
+One thing noticed:
+#+end_example
+
+* Longform Reflection
+
+#+begin_example
+* 2026-01-16
+
+What happened:
+
+What I noticed:
+
+What may matter later:
+#+end_example
+
+* Weekly Signals
+
+#+begin_example
+* Week of 2026-01-12
+
+Body:
+Mind:
+Work:
+Relationships:
+Environment:
+#+end_example
+
+* Field Notes
+
+#+begin_example
+* 2026-01-16 — Place
+
+Weather:
+People:
+Sounds:
+What changed:
+What I want to remember:
+#+end_example
+
+* Creative Seeds
+
+#+begin_example
+* 2026-01-16
+
+Seed:
+Why it interests me:
+Possible form:
+Next honest sentence:
+#essay-seed
+#+end_example
