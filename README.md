@@ -69,8 +69,9 @@ If you’re looking for a task manager, habit tracker, or productivity app, this
 OBTF works in:
 - `.txt`
 - `.md`
+- `.org`
 
-Markdown is recommended but optional.
+Markdown is recommended but optional. Plain text is enough. Emacs Org works well if you already live in Emacs.
 
 Entries are chronological and date-based.
 
@@ -81,9 +82,31 @@ Example:
 - Walked by the water
 - Paid electrician
 - Felt unusually clear in the afternoon #clarity
-````
+```
 
 That’s enough structure.
+
+---
+
+## Journal Styles
+
+The `templates/` folder includes a few simple journal styles in three formats:
+
+- `journal-styles.md`
+- `journal-styles.txt`
+- `journal-styles.org`
+
+These are not required structures. They are starting points for people who want a little help beginning.
+
+The styles include:
+- Minimal Daily
+- Daily Check-In
+- Longform Reflection
+- Weekly Signals
+- Field Notes
+- Creative Seeds
+
+Pick one. Start writing. Change it when it stops helping.
 
 ---
 
@@ -171,6 +194,7 @@ OBTF works anywhere you can edit text:
 * VS Code
 * iA Writer
 * Vim / Neovim
+* Emacs
 * Any plain-text editor
 
 Search is the primary interface.
