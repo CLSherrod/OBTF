@@ -1,20 +1,34 @@
-#+TITLE: OBTF Journal Styles — Emacs Org
+#+TITLE: OBTF Journal Styles — Org Mode
+#+SUBTITLE: One Big Text File Journal
+#+STARTUP: overview
+#+OPTIONS: toc:nil num:nil
+#+TAGS: signal(s) pattern(p) shift(h) warning(w) clarity(c) low_energy(l) clear(e) overstimulated(o) rested(r) fragile(f) essay_seed(E) book_seed(B) course_seed(C) story_seed(S)
 
-Use these as starting points, not rules. Pick one style and keep writing in chronological order.
+# Use these as starting points, not rules.
+# Org conventions used here:
+# - Headlines begin with one or more stars.
+# - Tags sit at the end of a headline as :tag:.
+# - Inactive timestamps use square brackets, e.g. [2026-01-16 Fri].
+# - Keep everything chronological unless there is a strong reason not to.
 
-* Minimal Daily
+* Minimal Daily :template:
+Use this when you want the least possible structure.
 
-#+begin_example
-* 2026-01-16
+#+begin_src org
+* 2026-01-16 Friday
+[2026-01-16 Fri]
+
 - Walked by the water.
 - Paid electrician.
-- Felt clear in the afternoon. #clarity
-#+end_example
+- Felt clear in the afternoon.
+#+end_src
 
-* Daily Check-In
+* Daily Check-In :template:
+Use this when you want a light scan of your current condition.
 
-#+begin_example
-* 2026-01-16
+#+begin_src org
+* 2026-01-16 Friday
+[2026-01-16 Fri]
 
 Energy:
 Body:
@@ -22,52 +36,87 @@ Mind:
 Work:
 Home:
 One thing noticed:
-#+end_example
+#+end_src
 
-* Longform Reflection
+* Longform Reflection :template:
+Use this when something deserves more than a list.
 
-#+begin_example
-* 2026-01-16
+#+begin_src org
+* 2026-01-16 Friday
+[2026-01-16 Fri]
 
 What happened:
 
 What I noticed:
 
 What may matter later:
-#+end_example
+#+end_src
 
-* Weekly Signals
+* Weekly Signals :template:
+Use this at the end of a week. Keep it short.
 
-#+begin_example
-* Week of 2026-01-12
+#+begin_src org
+* Week of 2026-01-12 :signal:
 
 Body:
 Mind:
 Work:
 Relationships:
 Environment:
-#+end_example
+#+end_src
 
-* Field Notes
+* Field Notes :template:
+Use this for travel, walks, retreats, errands, or changes in place.
 
-#+begin_example
-* 2026-01-16 — Place
+#+begin_src org
+* 2026-01-16 Friday — Place
+[2026-01-16 Fri]
 
 Weather:
 People:
 Sounds:
 What changed:
 What I want to remember:
-#+end_example
+#+end_src
 
-* Creative Seeds
+* Creative Seeds :template:
+Use this when something may become an essay, book, course, story, artwork, or talk.
 
-#+begin_example
-* 2026-01-16
+#+begin_src org
+* 2026-01-16 Friday :essay_seed:
+[2026-01-16 Fri]
 
 Seed:
 Why it interests me:
 Possible form:
 Next honest sentence:
-#essay-seed
-#+end_example
+#+end_src
+
+* Signal Entry :template:
+Use this sparingly when a moment seems worth finding again later.
+
+#+begin_src org
+* 2026-01-16 Friday :signal:clarity:
+[2026-01-16 Fri]
+
+What happened:
+
+Why it seems important:
+
+What to watch for:
+#+end_src
+
+* Low-Energy Entry :template:
+Use this when you need to record honestly without forcing analysis.
+
+#+begin_src org
+* 2026-01-16 Friday :low_energy:
+[2026-01-16 Fri]
+
+Minimum record:
+- 
+
+Body:
+
+One kind thing to do next:
+#+end_src
